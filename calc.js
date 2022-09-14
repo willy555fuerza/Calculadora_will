@@ -81,6 +81,7 @@ function clear(){
     operacion = undefined; 
     //botonIgual = '';
     //botonDelete = '';
+    result.value = 0;
 }
 
 function actualizarDisplay(){
